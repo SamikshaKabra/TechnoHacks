@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+    
+  }
+  
+  #countdown {
+    font-size: 48px;
+    color:brown;
+    background: aliceblue;
+  }
+  
+  button {
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  .body
+  {
+    background-color:rgb(36, 124, 146);
+    
+  }
